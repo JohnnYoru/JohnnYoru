@@ -1,6 +1,6 @@
 <!-- ================= HEADER PRINCIPAL ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:7f32a8,100:3246a8&text=JohnnYoru&fontColor=e0efff&textBg=false&fontSize=65&animation=fadeIn&fontAlignY=40&desc=Ethical%20Hacker%20N'%20Cybersecurity%20Analyst&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:7f32a8,100:3246a8&text=JohnnYoru&fontColor=e0efff&textBg=false&fontSize=65&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 ---
